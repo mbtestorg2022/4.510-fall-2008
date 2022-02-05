@@ -28,8 +28,45 @@ Grading
 
 Your grade will be based on full participation in all aspects of the course, including attendance, completion of assignments, final presentations, and class participation.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Assignments | 60% |
-| Final presentations | 30% |
-| Class participation | 10%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final presentations
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
