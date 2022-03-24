@@ -26,11 +26,11 @@ ASSIGNMENTS
 {{< tdopen >}}
 
 
-Example 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assn1_example1))
+Example 1 ([PDF]({{< baseurl >}}/resources/assn1_example1))
 
-Example 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1.1 MB]({{< baseurl >}}/resources/assn1_example2))
+Example 2 ([PDF 1.1 MB]({{< baseurl >}}/resources/assn1_example2))
 
-Example 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9 MB]({{< baseurl >}}/resources/assn1_example3))
+Example 3 ([PDF - 1.9 MB]({{< baseurl >}}/resources/assn1_example3))
 
 
 {{< tdclose >}}
@@ -46,13 +46,13 @@ Example 3 (![This resource may not render correctly in a screen reader.](/images
 {{< tdopen >}}
 
 
-Example 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0 MB]({{< baseurl >}}/resources/assn2_example1))
+Example 1 ([PDF - 2.0 MB]({{< baseurl >}}/resources/assn2_example1))
 
-Example 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assn2_example2))
+Example 2 ([PDF]({{< baseurl >}}/resources/assn2_example2))
 
-Example 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assn2_example3))
+Example 3 ([PDF]({{< baseurl >}}/resources/assn2_example3))
 
-Example 4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assn2_example4))
+Example 4 ([PDF]({{< baseurl >}}/resources/assn2_example4))
 
 
 {{< tdclose >}}
@@ -68,11 +68,11 @@ Example 4 (![This resource may not render correctly in a screen reader.](/images
 {{< tdopen >}}
 
 
-John Pugh (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assn3_example1))
+John Pugh ([PDF]({{< baseurl >}}/resources/assn3_example1))
 
-Example 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0 MB]({{< baseurl >}}/resources/assn3_example2))
+Example 2 ([PDF - 1.0 MB]({{< baseurl >}}/resources/assn3_example2))
 
-Example 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assn3_example3))
+Example 3 ([PDF]({{< baseurl >}}/resources/assn3_example3))
 
 
 {{< tdclose >}}
@@ -88,13 +88,13 @@ Example 3 (![This resource may not render correctly in a screen reader.](/images
 {{< tdopen >}}
 
 
-Example 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6 MB]({{< baseurl >}}/resources/assn4_example1))
+Example 1 ([PDF - 1.6 MB]({{< baseurl >}}/resources/assn4_example1))
 
-Example 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assn4_example2))
+Example 2 ([PDF]({{< baseurl >}}/resources/assn4_example2))
 
-Example 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 9.8 MB]({{< baseurl >}}/resources/assn4_example3))
+Example 3 ([PDF - 9.8 MB]({{< baseurl >}}/resources/assn4_example3))
 
-Example 4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.5 MB]({{< baseurl >}}/resources/assn4_example4))
+Example 4 ([PDF - 5.5 MB]({{< baseurl >}}/resources/assn4_example4))
 
 
 {{< tdclose >}}
@@ -110,13 +110,13 @@ Example 4 (![This resource may not render correctly in a screen reader.](/images
 {{< tdopen >}}
 
 
-Marissa Cheng and John Pugh (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assn5_example1))
+Marissa Cheng and John Pugh ([PDF]({{< baseurl >}}/resources/assn5_example1))
 
-Example 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.3 MB]({{< baseurl >}}/resources/assn5_example2))
+Example 2 ([PDF - 2.3 MB]({{< baseurl >}}/resources/assn5_example2))
 
-Example 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assn5_example3))
+Example 3 ([PDF]({{< baseurl >}}/resources/assn5_example3))
 
-Example 4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.8 MB]({{< baseurl >}}/resources/assn5_example4))
+Example 4 ([PDF - 5.8 MB]({{< baseurl >}}/resources/assn5_example4))
 
 
 {{< tdclose >}}
@@ -132,11 +132,11 @@ Example 4 (![This resource may not render correctly in a screen reader.](/images
 {{< tdopen >}}
 
 
-Example 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0 MB]({{< baseurl >}}/resources/final_example1))
+Example 1 ([PDF - 2.0 MB]({{< baseurl >}}/resources/final_example1))
 
-Example 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/final_example2))
+Example 2 ([PDF]({{< baseurl >}}/resources/final_example2))
 
-Example 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.4 MB]({{< baseurl >}}/resources/final_example3))
+Example 3 ([PDF - 4.4 MB]({{< baseurl >}}/resources/final_example3))
 
 
 {{< tdclose >}}

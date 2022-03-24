@@ -28,7 +28,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1 - 1.9 MB]({{< baseurl >}}/resources/lec1a)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2]({{< baseurl >}}/resources/lec1b))
+Introduction ([PDF 1 - 1.9 MB]({{< baseurl >}}/resources/lec1a)) ([PDF 2]({{< baseurl >}}/resources/lec1b))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -37,7 +37,7 @@ Introduction (![This resource may not render correctly in a screen reader.](/ima
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Background digital manufacturing (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec2))
+Background digital manufacturing ([PDF]({{< baseurl >}}/resources/lec2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +46,7 @@ Background digital manufacturing (![This resource may not render correctly in a 
 3
 {{< tdclose >}}
 {{< tdopen >}}
-CAD/CAM manufacturing (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9 MB]({{< baseurl >}}/resources/lec3))
+CAD/CAM manufacturing ([PDF - 1.9 MB]({{< baseurl >}}/resources/lec3))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +55,7 @@ CAD/CAM manufacturing (![This resource may not render correctly in a screen read
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Assembly design geometry (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1 - 2.4 MB]({{< baseurl >}}/resources/lec4_1)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 - 8.7 MB]({{< baseurl >}}/resources/lec4_2))
+Assembly design geometry ([PDF 1 - 2.4 MB]({{< baseurl >}}/resources/lec4_1)) ([PDF 2 - 8.7 MB]({{< baseurl >}}/resources/lec4_2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +88,7 @@ Fabrication and curved
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Generative fabrication (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/lec7a)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 - 1.5 MB]({{< baseurl >}}/resources/lec7b)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 3 - 3.2 MB]({{< baseurl >}}/resources/lec7c))
+Generative fabrication ([PDF 1]({{< baseurl >}}/resources/lec7a)) ([PDF 2 - 1.5 MB]({{< baseurl >}}/resources/lec7b)) ([PDF 3 - 3.2 MB]({{< baseurl >}}/resources/lec7c))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +97,7 @@ Generative fabrication (![This resource may not render correctly in a screen rea
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Printing houses (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6 MB]({{< baseurl >}}/resources/lec8))
+Printing houses ([PDF - 1.6 MB]({{< baseurl >}}/resources/lec8))
 {{< tdclose >}}
 
 {{< trclose >}}
